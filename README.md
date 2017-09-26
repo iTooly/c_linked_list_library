@@ -1,2 +1,2 @@
-# c_linked_list_library
+# C Linked List Library
 A linked list library implementation in C
